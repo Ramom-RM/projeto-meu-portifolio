@@ -1,6 +1,6 @@
 # 👨‍💻 Projeto Meu Portfólio
 
-Meu portfólio desenvolvido com o objetivo de apresentar meus projetos, habilidades e minha evolução como desenvolvedor.
+Este é o meu portfólio pessoal, desenvolvido com o objetivo de apresentar meus projetos, habilidades e minha evolução como desenvolvedor.
 
 ## 🚀 Tecnologias utilizadas
 
@@ -14,15 +14,6 @@ Meu portfólio desenvolvido com o objetivo de apresentar meus projetos, habilida
 
 ![Preview do projeto](./img/projeto1.png)
 
-## 📂 Estrutura do projeto
-
-```
-📁 componentes
-📁 img
-📄 index.php
-📄 server.php
-```
-
 ## ⚙️ Como executar o projeto
 
 Clone o repositório:
@@ -31,7 +22,7 @@ Clone o repositório:
 git clone https://github.com/Ramom-RM/projeto-meu-portifolio.git
 ```
 
-Acesse a pasta:
+Acesse a pasta do projeto:
 
 ```bash
 cd projeto-meu-portifolio
@@ -53,23 +44,29 @@ http://localhost:8000
 
 Este projeto foi desenvolvido para:
 
-* Praticar PHP na construção de páginas dinâmicas
-* Organizar melhor meus projetos
-* Criar minha presença como desenvolvedor
+* Praticar a construção de páginas dinâmicas com PHP
+* Organizar e apresentar meus projetos
+* Fortalecer minha base como desenvolvedor
 
 ## 📚 Aprendizados
 
-* Estruturação com componentes PHP
-* Uso de arrays para renderização dinâmica
+* Componentização com PHP
+* Renderização dinâmica com arrays
 * Estilização com TailwindCSS
-* Organização de layout
+* Organização de layout e estrutura de projeto
 
-## 👨‍💻 Autor
+## 👨‍💻 Sobre mim
 
-Feito com dedicação por **Ramom Ribeiro Martins**
+Sou um desenvolvedor em formação, movido pelo aprendizado contínuo e por novos desafios.
+Busco evoluir todos os dias, criando projetos que fortaleçam minhas habilidades técnicas e minha capacidade de contribuir em equipe.
 
-🔗 GitHub: https://github.com/Ramom-RM
-🔗 LinkedIn: (coloque aqui depois)
+## 🔗 Contato
+
+💼 LinkedIn:
+https://www.linkedin.com/in/ramom-r-martins-97ba14211/
+
+🐙 GitHub:
+https://github.com/Ramom-RM
 
 ---
 
