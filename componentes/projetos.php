@@ -6,7 +6,7 @@
             "titulo" => "Meu Portfolio",
             "finalizado" => false,
             "ano" => 2021,
-            "descricao" => "Meu primeiro Portfolio. Escrito em PHP e HTML.",
+            "descricao" => "Portfólio pessoal desenvolvido com HTML, CSS, JavaScript e PHP, com foco em layout responsivo, componentes reutilizáveis e boas práticas de organização de código. O projeto apresenta minhas informações, redes sociais e projetos de forma moderna e objetiva.",
             "stack" => ["PHP", "HTML", "CSS", "JS"],
             "img" => "/img/projeto1.png"
         ],
@@ -45,7 +45,7 @@
 
         <div class="w-1/5 flex items-center justify-middle">
 
-            <img src="<?= $projeto['img'] ?>" class="w-42 rounded-md">
+            <img src="<?= $projeto['img'] ?>" class="w-32 rounded-md">
 
         </div>
 
