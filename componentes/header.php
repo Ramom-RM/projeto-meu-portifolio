@@ -4,7 +4,7 @@
 
         ['href' => '#projetos', 'texto' => 'Projetos'],
         ['href' => 'https://github.com/Ramom-RM', 'texto' => 'Github'],
-        ['href' => 'https://www.linkedin.com/in/ramom-r-martins-97ba14211/', 'texto' => 'LinkdIn'],
+        ['href' => 'https://www.linkedin.com/in/ramom-r-martins-97ba14211/', 'texto' => 'LinkedIn'],
         ['href' => 'https://x.com/frosttedev', 'texto' => 'Twitter'],
 
     ];

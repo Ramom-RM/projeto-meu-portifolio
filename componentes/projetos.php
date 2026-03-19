@@ -11,12 +11,14 @@
             "img" => "/img/projeto1.png"
         ],
         [
-            "titulo" => "Lista de Tarefas",
+            "titulo" => "ClipForce AI",
             "finalizado" => true,
-            "ano" => 2022,
-            "descricao" => "Lista de Tarefas. Escrito em PHP e HTML.",
-            "stack" => ["PHP", "HTML", "CSS", "JS"],
-            "img" => ""
+            "ano" => 2026,
+            "descricao" => " ClipForge AI é uma aplicação web que utiliza Inteligência Artificial para analisar vídeos e gerar cortes automaticamente com base no conteúdo mais relevante.
+                            A aplicação permite que o usuário envie um vídeo, faça a transcrição automática do conteúdo, analise o texto com IA e selecione automaticamente os trechos mais importantes para gerar um novo vídeo final.
+                            Esse projeto demonstra integração entre frontend web, APIs de IA e processamento de mídia.",
+            "stack" => ["HTML", "CSS", "JS"],
+            "img" => "img/clipforceai.png"
         ],
         [
             "titulo" => "Controle de Leitura de Vídeos",
